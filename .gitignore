@@ -1,0 +1,36 @@
+# Большие файлы данных (не коммитим в репозиторий)
+data/fraud/creditcard.csv
+data/imdb/IMDB Dataset.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Models (опционально, если они большие)
+# models/*.pkl
+
